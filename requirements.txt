@@ -1,0 +1,6 @@
+torch >= 1.8.0
+model_zoo
+timm == 0.3.2
+tqdm
+torchvision
+colossalai
